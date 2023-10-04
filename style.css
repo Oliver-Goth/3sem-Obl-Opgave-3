@@ -1,0 +1,32 @@
+.header {
+    background-color: #fff387;
+    --bs-gutter-x:1.5rem;
+    --bs-gutter-y:0;width:100%;
+    padding-right:calc(var(--bs-gutter-x) * .5);
+    padding-left:calc(var(--bs-gutter-x) * .5);
+    margin-right:auto;
+    margin-left:auto;
+    padding:3rem!important;
+    color:black;
+    text-align:center;
+}
+
+.center-sm{
+    font-size:80%; 
+    width:100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.container{
+    --bs-gutter-x:1.5rem;
+    --bs-gutter-y:0;width:
+    100%;padding-right:calc(var(--bs-gutter-x) * .5);
+    padding-left:calc(var(--bs-gutter-x) * .5);
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 3rem!important;
+}
+
+
+
